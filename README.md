@@ -1,4 +1,2 @@
-# rndproj-9l31454x
-
-Random node project for sample.
-
+# rndproj-9l31454x\n\nSmall CLI tool for text cleanup and formatting.\n
+New-FileDef
